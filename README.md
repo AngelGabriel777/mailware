@@ -1,6 +1,4 @@
-Aquí tienes el **README.md completo y profesional** listo para copiar y pegar directamente en tu repositorio:
 
-```markdown
 # 🛡️ Analizador Unificado de Seguridad – Correos, Contratos y Boletines
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
